@@ -1,0 +1,13 @@
+name: day_02
+version: 0.1.0
+
+authors:
+  - Michał Kalbarczyk <fazibear@gmail.com>
+
+targets:
+  day_02:
+    main: src/day_02.cr
+
+crystal: 0.23.1
+
+license: MIT
